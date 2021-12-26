@@ -10,7 +10,6 @@ driver = webdriver.Remote( command_executor='http://chrome:4444/wd/hub', desired
 #googleにアクセス
 driver.get('https://google.com/')
 
-
 #スクショ
 driver.save_screenshot('/app/data/cap.png')
 
