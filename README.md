@@ -11,7 +11,7 @@ PS C:\>  docker-compose up -d --build
 ~~~powershell
 #コンテナID取得
 PS C:\>  docker ps 
-#コンテナに接続
+#コンテナに接続(NAME：python)
 PS C:\>  docker exec -it コンテナID bash
 ~~~
 
