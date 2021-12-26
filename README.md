@@ -17,7 +17,7 @@ PS C:\>  docker exec -it コンテナID bash
 
 ## コンテナでPython実行
 ~~~console
-$ python /root/opt/HelloWorld.py
+$ python /app/src/Sample_Scraping.py
 ~~~
 
 
