@@ -2,6 +2,7 @@
 Docker+Selenium ServerでWebブラウザ自動操作環境を作る
  
 ## コンテナ起動
+docker-compose.ymlを配置したフォルダに移動して実行
 ~~~powershell
 PS C:\>  docker-compose up -d --build
 ~~~
