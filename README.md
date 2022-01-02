@@ -17,8 +17,9 @@ PS C:\>  docker exec -it コンテナID bash
 
 ## コンテナでPython実行
 ~~~console
-C:\>nslookup  hoge1.example.com
+$ python /app/src/Sample_Scraping.py
 ~~~
+
 
 ## コンテナとイメージの削除
 不要になったコンテナとイメージを削除
