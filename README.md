@@ -15,9 +15,9 @@ PS C:\>  docker ps
 PS C:\>  docker exec -it コンテナID bash
 ~~~
 
-## DNSに問い合わせ
+## コンテナでPython実行
 ~~~console
-C:\> nslookup hoge1.example.com
+C:\>nslookup  hoge1.example.com
 ~~~
 
 ## コンテナとイメージの削除
