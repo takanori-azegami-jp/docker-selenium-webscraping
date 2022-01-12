@@ -1,5 +1,5 @@
 # DockerBuild-SeleniumServer-WebScraping
-Docker+Selenium ServerでWebブラウザ自動操作環境を構築
+Docker+Selenium ServerでWebブラウザ自動操作環境を構築（Windows10）
  
 ## コンテナ起動
 docker-compose.ymlを配置したフォルダに移動して実行
